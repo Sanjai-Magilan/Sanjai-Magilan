@@ -1,5 +1,5 @@
 # About Me:
-Hi! I'm Sanjai Magilan, a tech enthusiast passionate about app development, IoT, and 2D game projects.<br>I'm currently exploring Java, Python, cloud computing, Machine learning and back-end development.<br>I love solving problems, using Linux, and optimizing workflows. <br>email: sanjaimagilan@gmail.com
+Hi! I'm Sanjai Magilan, a tech enthusiast passionate about app development, IoT, and 2D game projects.<br>I'm currently exploring Java, Python and back-end development.<br>I love solving problems, using Linux, and optimizing workflows. <br>email: sanjaimagilan@gmail.com
 
 
 ## 🌐 Socials:
