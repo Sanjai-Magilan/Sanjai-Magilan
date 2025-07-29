@@ -1,7 +1,20 @@
 # About Me:
-Hi! I'm Sanjai Magilan, a tech enthusiast passionate about app development, IoT, and 2D game projects.<br>I'm currently exploring Java, Python and back-end development.<br>I love solving problems, using Linux, and optimizing workflows. <br>email: sanjaimagilan@gmail.com
+👋 Hi, I’m Sanjai Magilan
+
+💻 Backend Developer | DevOps Learner | Linux Enthusiast
+
+    🛠️ Building reliable backend systems
+
+    ⚙️ Exploring DevOps: CI/CD, GitHub Actions, Docker & automation tools
+
+    🐧 Daily driving Linux — love customizing and optimizing systems
+
+    📈 Interested in cloud and performance-focused backend design
+
+    🔧 Automating workflows with custom shell scripts and GitHub integrations 
 
 
+Contact: sanjaimagilan@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/overlay/about-this-profile/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sanjai_magilan) 
 
