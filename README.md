@@ -37,7 +37,7 @@ Contact: sanjaimagilan@gmail.com
 
 ### 🖥️ Web & UI  
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt=".NET" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img align="left" alt=".NET" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>
 <img align="left" alt="Vercel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
 <img align="left" alt="Canva" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <br/><br/>  
@@ -51,7 +51,7 @@ Contact: sanjaimagilan@gmail.com
 
 ### 💾 Databases  
 <img align="left" alt="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<br/><br/>  
+<br/><br/> 
 
 ### 🎮 Hardware & Others  
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
@@ -59,12 +59,18 @@ Contact: sanjaimagilan@gmail.com
 <br/><br/>  
 
 ---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanjai-Magilan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
+
+
+
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanjai-Magilan&limit=5&theme=dark&combine_all_yearly_contributions=true)
