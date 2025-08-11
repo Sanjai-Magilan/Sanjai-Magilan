@@ -15,6 +15,16 @@
 
 
 Contact: sanjaimagilan@gmail.com
+
+### 📌 Currently Working On  
+- Automating workflows with custom shell scripts  
+- CI/CD pipelines for personal projects  
+
+### 📚 Currently Learning  
+- Docker & Kubernetes  
+- Microservices  
+- Cloud deployment on AWS  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/overlay/about-this-profile/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sanjai_magilan) 
 ### 🧠 Languages
