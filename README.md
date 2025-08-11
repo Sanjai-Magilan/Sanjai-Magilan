@@ -68,14 +68,5 @@ Contact: sanjaimagilan@gmail.com
 ---
 ![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
 
-
-
-
-
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sanjai-Magilan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Sanjai-Magilan&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Sanjai-Magilan&limit=5&theme=radical&combine_all_yearly_contributions=true)
