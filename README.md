@@ -6,7 +6,7 @@
   </a>
 </div>
 
----
+
 
 <!-- Put the image FIRST so it sits to the top-right of the section -->
 <!-- invisible image acts as spacing -->
