@@ -29,7 +29,7 @@
 <!-- Clear the float so later sections don't wrap around the image -->
 <br clear="right"/>
 
----
+
 
 <h2 align="left"> <span style="color:#ff005c">📌 Currently Working On</span> </h2>
 
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -122,7 +122,6 @@
 
 ![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
 
----
 
 ## 🔝 Top Contributed Repo
 <div align="center">
