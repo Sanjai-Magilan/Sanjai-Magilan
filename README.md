@@ -1,7 +1,14 @@
-# About Me:
-👋 Hi, I’m Sanjai Magilan
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff005c&height=80&section=header"/>
 
-💻 Backend Developer | DevOps Learner | Linux Enthusiast
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff005c&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Sanjai+Magilan;Backend+Developer;DevOps+Learner;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+
 
     🛠️ Building reliable backend systems
 
