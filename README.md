@@ -23,14 +23,24 @@
 
 Contact: sanjaimagilan@gmail.com
 
-### 📌 Currently Working On  
-- Automating workflows with custom shell scripts  
-- CI/CD pipelines for personal projects  
+<h2 align="center"> <span style="color:#ff005c">📌 Currently Working On</span> </h2>
 
-### 📚 Currently Learning  
-- Docker & Kubernetes  
-- Microservices  
-- Cloud deployment on AWS  
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell%20Scripts-ff005c?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="left"> <span style="color:#00f5ff">📚 Currently Learning</span> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-ff00ff?style=for-the-badge&logo=microservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/overlay/about-this-profile/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sanjai_magilan)
@@ -67,11 +77,18 @@ Contact: sanjaimagilan@gmail.com
 <br/><br/>  
 
 ---
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sanjai-Magilan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sanjai-Magilan&theme=radical&hide_border=false" height="180px"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-Magilan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
+
+</div>
 
 ---
 ![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
