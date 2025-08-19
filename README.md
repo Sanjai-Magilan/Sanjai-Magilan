@@ -9,6 +9,8 @@
 ---
 
 ### ⚡ About Me
+<img align="right" src="<a href="https://storyset.com/technology"></a>" width="200"/>
+
 - 🛠️ Building **reliable backend systems**  
 - ⚙️ Exploring **DevOps (CI/CD, GitHub Actions, Docker, automation tools)**  
 - 🐧 Daily driving **Linux — customizing & optimizing workflows**  
