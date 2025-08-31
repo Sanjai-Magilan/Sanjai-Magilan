@@ -38,15 +38,6 @@
   <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-<h2 align="left"> <span style="color:#00f5ff">📚 Currently Learning</span> </h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-ff00ff?style=for-the-badge&logo=architectural-design&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
 
 
 ## 🌐 Socials
