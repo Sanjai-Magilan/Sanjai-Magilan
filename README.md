@@ -8,13 +8,10 @@
 
 
 
-<!-- Put the image FIRST so it sits to the top-right of the section -->
-<!-- invisible image acts as spacing -->
 <img align="right" src="https://dummyimage.com/40x1/00000000/00000000" width="40"/>
 <img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
 
 
-<!-- (Optional) Add one <br/> if you want the text to start a bit lower, making the image look higher -->
 <br/>
 
 ### ⚡ About Me
@@ -26,7 +23,6 @@
 
 📬 Contact: **sanjaimagilan@gmail.com**
 
-<!-- Clear the float so later sections don't wrap around the image -->
 <br clear="right"/>
 
 
