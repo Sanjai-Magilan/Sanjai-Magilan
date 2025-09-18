@@ -114,3 +114,5 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Sanjai-Magilan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff005c&height=80&section=footer"/>
