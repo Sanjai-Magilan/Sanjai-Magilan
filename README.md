@@ -2,21 +2,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff005c&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Sanjai+Magilan;Backend+Developer;DevOps+Learner;Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff005c&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Sanjai+Magilan;Backend+Developer;MERN+Stack+Developer;DevOps+Learner;Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-
-
 <img align="right" src="https://dummyimage.com/40x1/00000000/00000000" width="40"/>
 <img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
-
 
 <br/>
 
 ### ⚡ About Me
 - 🛠️ Building **reliable backend systems**  
 - ⚙️ Exploring **DevOps (CI/CD, GitHub Actions, Docker, automation tools)**  
+- 💻 Developing full-stack apps using **MERN (MongoDB, Express, React, Node.js)**  
 - 🐧 Daily driving **Linux — customizing & optimizing workflows**  
 - ☁️ Interested in **cloud & performance-focused backend design**  
 - 🔧 Automating with **shell scripts & GitHub integrations**  
@@ -25,16 +23,12 @@
 
 <br clear="right"/>
 
-
-
 <h2 align="left"> <span style="color:#ff005c">📌 Currently Working On</span> </h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Shell%20Scripts-ff005c?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
-
-
 
 ## 🌐 Socials
 
@@ -47,8 +41,6 @@
   </a>
 </p>
 
-
-
 ## 🧠 Languages
 
 <p align="left">
@@ -59,17 +51,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
-
 ## 🖥️ Web & UI
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
-
 
 ## ⚙️ DevOps & Tools
 
@@ -80,15 +72,12 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-
-
 ## 💾 Databases
 
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-
-
 
 ## 🎮 Hardware & Others
 
@@ -96,8 +85,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
 </p>
-
-
 
 ## 📊 GitHub Stats
 
@@ -107,7 +94,6 @@
 <br><br/>
 
 ![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
-
 
 ## 🔝 Top Contributed Repo
 <div align="center">
