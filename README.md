@@ -95,9 +95,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sanjai-Magilan&theme=radical&hide_border=false" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=Sanjai-Magilan&theme=radical&hide_border=false" height="180px"/>
 </div>
-<br><br/>
+<br></br>
 
 ![Sanjai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-Magilan&theme=dracula&bg_color=ff005c0D&color=ffffff&line=ff005c&point=ff005c&area=true&hide_border=false)
 
