@@ -33,10 +33,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/">
-    <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff005c?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://reddit.com/user/sanjai_magilan">
-    <img src="https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reddit-1a1a1a?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="mailto:sanjaimagilan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff005c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
