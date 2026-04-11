@@ -26,10 +26,7 @@
 <h2 align="left"> <span style="color:#ff005c">📌 Currently Working On</span> </h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Shell%20Scripts-ff005c?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins%20Pipelines-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20Deployments-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,linux,jenkins" />
 </p>
 
 ## 🌐 Socials
@@ -46,50 +43,31 @@
 ## 🧠 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash" />
 </p>
 
 ## 🖥️ Web & UI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,express,mongodb,ejs" />
 </p>
 
 ## ⚙️ DevOps & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1E90FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,bash,linux" />
 </p>
 
 ## 💾 Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🎮 Hardware & Others
+## Hardware & Others 🎮 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+ <img src="https://skillicons.dev/icons?i=arduino,godot,ubuntu,arch" /> 
 </p>
 
 ## 📊 GitHub Stats
