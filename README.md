@@ -29,20 +29,6 @@
    <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,linux,jenkins" />
 </p>
 
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff005c?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://reddit.com/user/sanjai_magilan">
-    <img src="https://img.shields.io/badge/Reddit-1a1a1a?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <a href="mailto:sanjaimagilan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff005c?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ## 🧠 Languages
 
 <p align="left">
@@ -71,6 +57,20 @@
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=arduino,godot,ubuntu,arch" /> 
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjai-magilan-sadha-sivam-5b1118279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/sanjai_magilan">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="mailto:sanjaimagilan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff005c?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
