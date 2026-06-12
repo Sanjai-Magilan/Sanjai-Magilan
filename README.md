@@ -12,12 +12,15 @@
 <br/>
 
 ### ⚡ About Me
-- 🛠️ Building **reliable backend systems**  
-- ⚙️ Exploring **DevOps (CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes)**  
-- 💻 Developing full-stack apps using **MERN (MongoDB, Express, React, Node.js, EJS)**  
-- 🐧 Daily driving **Linux — customizing & optimizing workflows**  
-- ☁️ Interested in **cloud & performance-focused backend design**  
-- 🔧 Automating with **shell scripts & GitHub integrations**  
+
+- 🎮 Building browser games with **Phaser.js**
+- 🛠️ Building **reliable backend systems**
+- ⚙️ Exploring **DevOps (CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes)**
+- 💻 Developing full-stack apps using **MERN (MongoDB, Express, React, Node.js, EJS)**
+- 🐧 Daily driving **Linux — customizing & optimizing workflows**
+- ☁️ Interested in **cloud & performance-focused backend design**
+- 🔧 Automating with **shell scripts & GitHub integrations**
+- 🎨 Learning game art & UI design for indie game development
 
 📬 Contact: **sanjaimagilan@gmail.com**
 
