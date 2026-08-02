@@ -118,18 +118,6 @@ contact: sanjaimagilan@gmail.com
 
 <br/>
 
-## 📌 Currently Shipping
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Shell_Scripting-000000?style=for-the-badge&logo=gnubash&logoColor=ff005c"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff005c"/>
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=ff005c"/>
-<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=ff005c"/>
-
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
